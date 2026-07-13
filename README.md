@@ -96,7 +96,7 @@ Do not connect or disconnect the adapter while the computer is powered on.
 This adapter is only the hardware interface. The Radio-86RK still needs software or ROM support that knows how to communicate with the CH376 module.
 The simplest way is to use **PeaceDOS** Operating System: https://github.com/explit28/peace-dos
 
-** !!! Warning !!!**<br>
+**!!! Warning!!!**<br>
 **Incorrect wiring can damage the CH376 module, the adapter, or the Radio-86RK bus interface.**
 
 Use this project at your own risk. Always verify the pinout before applying power.
