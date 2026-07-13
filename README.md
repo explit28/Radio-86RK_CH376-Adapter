@@ -12,7 +12,6 @@ This repository contains the PCB production files and reference photos for the C
 ## What is this board for?
 
 The Radio-86RK is a Soviet 8080-compatible home computer. This adapter is intended to make it easier to connect a CH376 USB interface module to the Radio-86RK bus.
-
 The CH376 module provides a simple parallel interface that can be used by retro computers to access USB mass-storage devices, depending on the ROM/software used on the target machine.
 
 ## Typical use case:
@@ -20,7 +19,7 @@ The CH376 module provides a simple parallel interface that can be used by retro 
 Radio-86RK v1.4 mainboard
 CH376/CH376S USB module (Check Pinout! There are different modules with different pinout on the market!)
 Adapter PCB from this repository
-Compatible ROM or disk operating system with CH376 support
+Compatible ROM or disk operating system with CH376 support (PeaceDOS)
 Compatibility
 
 ## Designed for:
@@ -82,24 +81,18 @@ The Gerber and drill files are included in the Gerber directory as a zip file. T
 
 
 ## Recommended before ordering:
-
-Open the Gerber files in a Gerber viewer.
-Check board outline and hole positions.
-Check that the pin header orientation matches your installation.
-Compare the generated preview with the reference images in this repository.
-Assembly notes
+Check the CH376-Pinout you want to buy with the picture provided in this repo.
 
 ## Before powering the Radio-86RK:
-
 Check for shorts between +5V and GND.
 Verify CH376 module orientation.
 Verify cable orientation.
 Check continuity for all bus signals.
 Do not connect or disconnect the adapter while the computer is powered on.
-Software / ROM support
 
+## Software / ROM support
 This adapter is only the hardware interface. The Radio-86RK still needs software or ROM support that knows how to communicate with the CH376 module.
-The simplest way is to use PeaceDOS Operating System: https://github.com/explit28/peace-dos
+The simplest way is to use **PeaceDOS** Operating System: https://github.com/explit28/peace-dos
 
 **Warning**
 **Incorrect wiring can damage the CH376 module, the adapter, or the Radio-86RK bus interface.**
