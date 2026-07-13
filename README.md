@@ -1,4 +1,4 @@
-**Radio-86RK CH376 Adapter**
+*Radio-86RK CH376 Adapter*
 
 CH376 USB storage adapter PCB for the Radio-86RK v1.4 computer board by Sergey Kiselev.
 
