@@ -5,8 +5,6 @@ CH376 USB storage adapter PCB for the Radio-86RK v1.4 computer board by Sergey K
 This small adapter board connects a CH376/CH376S USB module to the Radio-86RK expansion/bus connector and allows the machine to communicate with USB storage hardware when used together with compatible ROM/software support.
 
 
-
-
 Project status
 
 This repository contains the PCB production files and reference photos for the CH376 adapter.
