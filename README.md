@@ -105,14 +105,7 @@ PeaceDOS: Dmitry Ivanov<br>
 Adapter PCB: PC-RATH.de<br>
 
 ## License
-No license has been specified yet.
+CERN-OHL-P-2.0
 
-If you want others to build, modify, and reuse this project, add an explicit open-source hardware license, for example:
-
-CERN-OHL-S
-CERN-OHL-W
-CC BY-SA 4.0
-
-Until a license is added, the files are publicly visible but reuse rights are not clearly defined.
 
 <a href="https://www.pcbway.com/project/shareproject/Radio_86RK_CH376_Adapter_78427d9a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
