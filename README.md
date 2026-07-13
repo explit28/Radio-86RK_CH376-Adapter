@@ -46,49 +46,26 @@ serial-only CH376 modules
 
 Before connecting power, compare your CH376 module pinout with the adapter pinout.
 
-Repository contents
-.
-├── Images/
-│   ├── CH376_Adapter_Bottom.jpg
-│   ├── CH376_Adapter_Pinout.jpg
-│   ├── CH376_Adapter_Top.jpg
-│   ├── CH376_Adapter_Traces.jpg
-│   └── CH376_cable_connection.jpg
-├── Explit-B_Cu.gbr
-├── Explit-B_Mask.gbr
-├── Explit-B_Paste.gbr
-├── Explit-B_Silkscreen.gbr
-├── Explit-Edge_Cuts.gbr
-├── Explit-F_Cu.gbr
-├── Explit-F_Mask.gbr
-├── Explit-F_Paste.gbr
-├── Explit-F_Silkscreen.gbr
-├── Explit-NPTH.drl
-├── Explit-PTH.drl
-├── Explit-job.gbrjob
-└── README.md
+
 Images
 Top side
-
-
+<img width="937" height="498" alt="CH376_Adapter_Top" src="https://github.com/user-attachments/assets/f9d2880f-8dec-4d8b-8954-f7cd83f3e7b3" />
 
 
 Bottom side
-
-
+<img width="967" height="533" alt="CH376_Adapter_Bottom" src="https://github.com/user-attachments/assets/f9952c0a-2d92-49c7-80aa-0a97a18bdcc0" />
 
 
 Traces
-
-
+<img width="1053" height="332" alt="CH376_Adapter_Traces" src="https://github.com/user-attachments/assets/39cfcf91-e5fd-41d9-9d18-c1f52594cedd" />
 
 
 Pinout
-
-
+<img width="672" height="1080" alt="CH376_Adapter_Pinout" src="https://github.com/user-attachments/assets/a15918a4-fcc6-4e3e-aa4c-7e7c3266d929" />
 
 
 Cable connection
+<img width="960" height="1280" alt="CH376_cable_connection" src="https://github.com/user-attachments/assets/407085cc-63b8-4484-84d7-3b3d9660686e" />
 
 
 
