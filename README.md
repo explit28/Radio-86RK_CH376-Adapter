@@ -40,23 +40,23 @@ Before connecting power, compare your CH376 module pinout with the adapter pinou
 
 
 ## Images
-Top side
+Top side<br>
 <img width="937" height="498" alt="CH376_Adapter_Top" src="https://github.com/user-attachments/assets/f9d2880f-8dec-4d8b-8954-f7cd83f3e7b3" />
 
 
-Bottom side
+Bottom side<br>
 <img width="967" height="533" alt="CH376_Adapter_Bottom" src="https://github.com/user-attachments/assets/f9952c0a-2d92-49c7-80aa-0a97a18bdcc0" />
 
 
-Traces
+Traces<br>
 <img width="1053" height="332" alt="CH376_Adapter_Traces" src="https://github.com/user-attachments/assets/39cfcf91-e5fd-41d9-9d18-c1f52594cedd" />
 
 
-Pinout
+Pinout<br>
 <img width="672" height="1080" alt="CH376_Adapter_Pinout" src="https://github.com/user-attachments/assets/a15918a4-fcc6-4e3e-aa4c-7e7c3266d929" />
 
 
-Cable connection
+Cable connection<br>
 <img width="960" height="1280" alt="CH376_cable_connection" src="https://github.com/user-attachments/assets/407085cc-63b8-4484-84d7-3b3d9660686e" />
 
 
