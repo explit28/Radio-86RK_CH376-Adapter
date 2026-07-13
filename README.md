@@ -128,9 +128,9 @@ The simplest way is to use PeaceDOS Operating System: https://github.com/explit2
 Use this project at your own risk. Always verify the pinout before applying power.
 
 Credits
-Radio-86RK v1.4 board: Sergey Kiselev
-PeaceDOS: Dmitry Ivanov
-Adapter PCB: PC-RATH.de
+Radio-86RK v1.4 board: Sergey Kiselev<br>
+PeaceDOS: Dmitry Ivanov<br>
+Adapter PCB: PC-RATH.de<br>
 
 License
 
