@@ -120,18 +120,18 @@ Do not connect or disconnect the adapter while the computer is powered on.
 Software / ROM support
 
 This adapter is only the hardware interface. The Radio-86RK still needs software or ROM support that knows how to communicate with the CH376 module.
+The simplest way is to use PeaceDOS Operating System: https://github.com/explit28/peace-dos
 
-For example, a disk operating system or monitor extension may be required to access USB files.
-
-Warning
-
-Incorrect wiring can damage the CH376 module, the adapter, or the Radio-86RK bus interface.
+**Warning**
+**Incorrect wiring can damage the CH376 module, the adapter, or the Radio-86RK bus interface.**
 
 Use this project at your own risk. Always verify the pinout before applying power.
 
 Credits
 Radio-86RK v1.4 board: Sergey Kiselev
-Adapter PCB and repository: explit28
+PeaceDOS: Dmitry Ivanov
+Adapter PCB: PC-RATH.de
+
 License
 
 No license has been specified yet.
