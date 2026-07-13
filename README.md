@@ -5,17 +5,17 @@ CH376 USB storage adapter PCB for the Radio-86RK v1.4 computer board by Sergey K
 This small adapter board connects a CH376/CH376S USB module to the Radio-86RK expansion/bus connector and allows the machine to communicate with USB storage hardware when used together with compatible ROM/software support.
 
 
-##Project status
+## Project status
 
 This repository contains the PCB production files and reference photos for the CH376 adapter.
 
-##What is this board for?
+## What is this board for?
 
 The Radio-86RK is a Soviet 8080-compatible home computer. This adapter is intended to make it easier to connect a CH376 USB interface module to the Radio-86RK bus.
 
 The CH376 module provides a simple parallel interface that can be used by retro computers to access USB mass-storage devices, depending on the ROM/software used on the target machine.
 
-##Typical use case:
+## Typical use case:
 
 Radio-86RK v1.4 mainboard
 CH376/CH376S USB module (Check Pinout! There are different modules with different pinout on the market!)
@@ -23,13 +23,13 @@ Adapter PCB from this repository
 Compatible ROM or disk operating system with CH376 support
 Compatibility
 
-##Designed for:
+## Designed for:
 
 Radio-86RK v1.4
 Sergey Kiselev Radio-86RK board layout
 CH376/CH376S module with parallel bus interface
 
-##Not guaranteed for:
+## Not guaranteed for:
 
 other Radio-86RK board revisions
 heavily modified boards
@@ -39,7 +39,7 @@ serial-only CH376 modules
 Before connecting power, compare your CH376 module pinout with the adapter pinout.
 
 
-##Images
+## Images
 Top side
 <img width="937" height="498" alt="CH376_Adapter_Top" src="https://github.com/user-attachments/assets/f9d2880f-8dec-4d8b-8954-f7cd83f3e7b3" />
 
@@ -62,7 +62,7 @@ Cable connection
 
 
 
-CH376 signals
+## CH376 signals
 
 The adapter is intended for the CH376 parallel interface. The important signals are:
 
@@ -77,11 +77,11 @@ GND	Ground
 
 Check the exact pin order on your module before soldering or connecting the cable.
 
-##PCB manufacturing
+## PCB manufacturing
 The Gerber and drill files are included in the Gerber directory as a zip file. They can be uploaded to a PCB manufacturer such as PCBWay, JLCPCB, or another Gerber-compatible board house.
 
 
-##Recommended before ordering:
+## Recommended before ordering:
 
 Open the Gerber files in a Gerber viewer.
 Check board outline and hole positions.
@@ -89,7 +89,7 @@ Check that the pin header orientation matches your installation.
 Compare the generated preview with the reference images in this repository.
 Assembly notes
 
-##Before powering the Radio-86RK:
+## Before powering the Radio-86RK:
 
 Check for shorts between +5V and GND.
 Verify CH376 module orientation.
@@ -106,12 +106,12 @@ The simplest way is to use PeaceDOS Operating System: https://github.com/explit2
 
 Use this project at your own risk. Always verify the pinout before applying power.
 
-##Credits
+## Credits
 Radio-86RK v1.4 board: Sergey Kiselev<br>
 PeaceDOS: Dmitry Ivanov<br>
 Adapter PCB: PC-RATH.de<br>
 
-##License
+## License
 No license has been specified yet.
 
 If you want others to build, modify, and reuse this project, add an explicit open-source hardware license, for example:
