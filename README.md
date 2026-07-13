@@ -1,4 +1,4 @@
-Radio-86RK CH376 Adapter
+**Radio-86RK CH376 Adapter**
 
 CH376 USB storage adapter PCB for the Radio-86RK v1.4 computer board by Sergey Kiselev.
 
@@ -26,7 +26,7 @@ The CH376 module provides a simple parallel interface that can be used by retro 
 Typical use case:
 
 Radio-86RK v1.4 mainboard
-CH376/CH376S USB module
+CH376/CH376S USB module (Check Pinout! There are different modules with different pinout on the market!)
 Adapter PCB from this repository
 Compatible ROM or disk operating system with CH376 support
 Compatibility
