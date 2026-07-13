@@ -55,9 +55,11 @@ Pinout<br>
 <img width="672" height="1080" alt="CH376_Adapter_Pinout" src="https://github.com/user-attachments/assets/a15918a4-fcc6-4e3e-aa4c-7e7c3266d929" />
 
 
-Cable connection<br>
-<img width="960" height="1280" alt="CH376_cable_connection" src="https://github.com/user-attachments/assets/407085cc-63b8-4484-84d7-3b3d9660686e" />
+Complete adapter top side<br>
+<img width="616" height="463" alt="Radio-86RK_1_4_CH376_Adapter_Top" src="https://github.com/user-attachments/assets/7e6f8a92-32a7-4939-8140-c93f7f3110a0" />
 
+Complete adapter bottom side<br>
+<img width="630" height="403" alt="Radio-86RK_1_4_CH376_Adapter_Bottom" src="https://github.com/user-attachments/assets/1b635e06-1fb7-4aa6-ad3f-9e0c03c8d331" />
 
 
 
