@@ -1,21 +1,17 @@
 # Radio-86RK CH376 Adapter
-
 CH376 USB storage adapter PCB for the Radio-86RK v1.4 computer board by Sergey Kiselev.
 
 This small adapter board connects a CH376/CH376S USB module to the Radio-86RK expansion/bus connector and allows the machine to communicate with USB storage hardware when used together with compatible ROM/software support.
 
 
 ## Project status
-
 This repository contains the PCB production files and reference photos for the CH376 adapter.
 
 ## What is this board for?
-
 The Radio-86RK is a Soviet 8080-compatible home computer. This adapter is intended to make it easier to connect a CH376 USB interface module to the Radio-86RK bus.
 The CH376 module provides a simple parallel interface that can be used by retro computers to access USB mass-storage devices, depending on the ROM/software used on the target machine.
 
 ## Typical use case:
-
 Radio-86RK v1.4 mainboard
 CH376/CH376S USB module (Check Pinout! There are different modules with different pinout on the market!)
 Adapter PCB from this repository
@@ -23,20 +19,16 @@ Compatible ROM or disk operating system with CH376 support (PeaceDOS)
 Compatibility
 
 ## Designed for:
-
-Radio-86RK v1.4
-Sergey Kiselev Radio-86RK board layout
+Sergey Kiselev Radio-86RK board layout Version v1.4
 CH376/CH376S module with parallel bus interface
 
 ## Not guaranteed for:
-
 other Radio-86RK board revisions
 heavily modified boards
 different CH376 module pinouts
 serial-only CH376 modules
 
 Before connecting power, compare your CH376 module pinout with the adapter pinout.
-
 
 ## Images
 Top side<br>
@@ -64,7 +56,6 @@ Complete adapter bottom side<br>
 
 
 ## CH376 signals
-
 The adapter is intended for the CH376 parallel interface. The important signals are:
 
 Signal	Function
@@ -88,7 +79,7 @@ Check the CH376-Pinout you want to buy with the picture provided in this repo.
 ## Before powering the Radio-86RK:
 Check for shorts between +5V and GND.
 Verify CH376 module orientation.
-Verify cable orientation.
+Verify Adapter Pinout and orientation
 Check continuity for all bus signals.
 Do not connect or disconnect the adapter while the computer is powered on.
 
@@ -96,9 +87,8 @@ Do not connect or disconnect the adapter while the computer is powered on.
 This adapter is only the hardware interface. The Radio-86RK still needs software or ROM support that knows how to communicate with the CH376 module.
 The simplest way is to use **PeaceDOS** Operating System: https://github.com/explit28/peace-dos
 
-**!!! Warning!!!**<br>
+**Warning**<br>
 **Incorrect wiring can damage the CH376 module, the adapter, or the Radio-86RK bus interface.**
-
 Use this project at your own risk. Always verify the pinout before applying power.
 
 ## Credits
